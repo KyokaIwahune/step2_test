@@ -1,1 +1,2 @@
 This is test text for Step 2.
+② This is a text edit on the test branch.
